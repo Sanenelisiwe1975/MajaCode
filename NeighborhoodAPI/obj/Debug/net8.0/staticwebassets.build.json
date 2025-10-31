@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J62fbcgXjfDwYaXXGxJm1xRSgbWUmgTCOEeq2hnWqGY=",
+  "Source": "NeighborhoodAPI",
+  "BasePath": "_content/NeighborhoodAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
